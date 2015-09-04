@@ -1,4 +1,7 @@
 # BROWSERS
+There are five major browsers used on desktop today: Chrome, Internet Explorer, Firefox, Safari and Opera.
+
+
 How Browsers Work
 -As soon as you type in a web address into your browsers address bar,some communications starts to happen.
 -The browsers send an HTTP request through the internet to where the server that runs the website is located.
