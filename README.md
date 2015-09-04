@@ -14,7 +14,9 @@ HTTTP REQUEST:
 Contains 3 parts;
 
 -Request line:Command,web page requested,HTTP version number.
+
 -Request header:Includes browser in use,date, and some other info.
+
 -Request Body:contains info that was sent to the server.(optional)
 
 HTTP RESPONSE:
@@ -22,5 +24,7 @@ HTTP RESPONSE:
 Contains 3 parts;
 
 -Response status:http version #,status code,and reason phrase (description of status code)
+
 -Response Header:Optionan info including server being used,date,URL of webpage.
+
 -Response Body:the website(in HTML).
