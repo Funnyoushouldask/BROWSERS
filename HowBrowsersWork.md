@@ -1,5 +1,5 @@
 #BROWSERS
-There are five major browsers used on desktop today: Chrome, Internet Explorer, Firefox, Safari and Opera.
+There are five major browsers used on desktop today: *Chrome*, *Internet Explorer*, *Firefox*, *Safari* and *Opera*.
 
 
 ##How Browsers Work
