@@ -5,8 +5,11 @@ There are five major browsers used on desktop today: Chrome, Internet Explorer, 
 How Browsers Work
 
 -As soon as you type in a web address into your browsers address bar,some communications starts to happen.
+
 -The browsers send an HTTP request through the internet to where the server that runs the website is located.
+
 -The webserver then sends back an HTTP response which is read by the browser to display the site.
+
 -The response contains the website in HTML form which the browser translates and displays the complete site as we view them.
 
 HTTTP REQUEST:
